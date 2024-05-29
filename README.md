@@ -21,5 +21,8 @@ https://github.com/Josephy5/Project-Titan-Submissions/assets/59676928/2f072d35-5
 
 https://github.com/Josephy5/Project-Titan-Submissions/assets/59676928/9cdd299b-f512-4938-8859-74e8deddb3e1
 
+The videos are also on my YT channel if you want to use that instead.
+https://www.youtube.com/channel/UCsO5VFL9AqfEoXFHfmfiyqw
+
 We were mostly been restricted to just niagara and scratchpad, so there are certain things we can't make for the event like a full blown posterization filter.
 I wasn't able to create as many I hoped as I gotten busy with life and my personal game project, DeathJack, in almost all of May.
