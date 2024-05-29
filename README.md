@@ -1,6 +1,6 @@
 # VFX effects that I created for Epic Game's Project Titan art jam. #
 
-## The Unreal Engine version we used for the event is 5.4.1. ##
+**The Unreal Engine version we used for the event is 5.4.1.**
 
 ** You can preview the effects via the videos below **
 
